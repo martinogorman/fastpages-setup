@@ -1,0 +1,1 @@
+Sitemap: https://martinogorman.github.io/fastpages-setup/sitemap.xml
